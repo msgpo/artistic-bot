@@ -1,0 +1,6 @@
+data/train
+data/weights
+checkpoints/
+
+*~
+__pycache__/
